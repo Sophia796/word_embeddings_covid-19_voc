@@ -1,4 +1,4 @@
-# word_embeddings_covid-19_voc
+# word_embeddings_covid-19_vocab
 
 Am Beispiel ausgewählter Wörter des Lexikons der Covid-19-Pandemie soll mithilfe von Word Embeddings lexikalischer Bedeutungswandel überprüft werden.
 
